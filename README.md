@@ -12,7 +12,7 @@ A client wants to have Jenkins set up on AWS cloud. They wish to have full contr
 - Create jenkins server and only grant ssh access to bastion host.
 - Setup an application load balancer (ALB) to access the jenkins server.
 - Create an infrastructure diagram to show your design.
-- Provide a detailed documentation of your step by step processes (including screenshots)
+- Provide a detailed documentation of your step by step processes (including screenshots) in a file named `${firstname}_${lastname}_jenkins_with_terraform.md`
 
 ## Bonus
 
